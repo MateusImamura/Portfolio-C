@@ -1,2 +1,3 @@
 # Portfolio-C
-Programas desenvolvidos em linguagem C
+
+Programas desenvolvidos por mim em linguagem C
