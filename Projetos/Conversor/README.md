@@ -4,4 +4,4 @@ Esse projeto implementa um conversor de temperatura simples, desenvolvido em lin
 O programa permite realisar conversões entre Celsius, Fahrenheit e Kelvin.
 
 -Interface simples com menu via terminal
--Repetição até que o usuário digite o comando para sair.
+-Repetição de operações até o usuário sair.
